@@ -1,0 +1,2 @@
+# mycodecool
+Git started
